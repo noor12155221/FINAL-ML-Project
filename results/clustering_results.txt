@@ -1,2 +1,0 @@
-Optimal K: 2
-Silhouette Score: 0.3972273135738686
